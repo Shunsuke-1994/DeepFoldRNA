@@ -3,7 +3,7 @@
 cd bin/
 
 ###### Install MSA generation programs ############
-git clone https://github.com/kad-ecoli/rMSA
+git clone https://github.com/Shunsuke-1994/rMSA2.git
 
 ######## Install programs for structure refinement ############
 wget --no-check-certificate https://ftp.users.genesilico.pl/software/simrna/version_3.20/SimRNA_64bitIntel_Linux.tgz
